@@ -1,4 +1,37 @@
 .subhead{
-    background-color: #ffff80;
+    background-color: #ffd803;
     font-weight: bold;
+}
+.menu{
+    background-color:#ff8ba7;
+    border: 2px solid  #272343;
+    border-radius: 30px;
+    text-align: center;
+    font-weight: bold;
+    height: 30px;
+    width: 150px;
+    margin: 10px auto;
+    padding: 10px 30px;
+    display: inline-block;
+
+    }
+.para1{
+    font-size: 25px;
+    padding: 20px;
+    font-style: italic;
+    color:#594a4e;
+}    
+.heading1{
+    color:#33272a;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+.card {
+    height: 80px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    width: 150px;
 }
