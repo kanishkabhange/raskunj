@@ -2,6 +2,8 @@
     background-color: #c3f0ca;
     height: 600px;
     width: 100%;
+    border:2px #c3f0ca solid;
+    border-radius: 20px;
 }
 .product-card{
     background-color:#ffc6c7;
